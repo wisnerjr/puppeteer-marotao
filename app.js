@@ -5,7 +5,8 @@ const {
   loginUrl,
   courseUrl,
 } = require("./credentials.json");
-const moduleId = 2;
+
+const moduleId = 1;
 Apify.main(async () => {
   const browser = await Apify.launchPuppeteer();
   const page = await browser.newPage();

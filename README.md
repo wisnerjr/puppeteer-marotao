@@ -15,4 +15,4 @@
 
 > Substitua os valores das chaves pelo seu usuário e senha, além do link de login do canvas e link de acesso ao curso que você deseja marcar presença na aula presencial.
 
-## 3. Rode o comando `node app.js` e seja feliz!
+## 3. Rode o comando `npm start` e seja feliz!
